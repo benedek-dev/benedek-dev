@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benedek-dev
 - 👀 I’m interested in servers
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on OpenSourceProjects
 - 📫 How to reach me>: benecraftmc@gmail.com
 - 😄 Pronouns: He/Him
