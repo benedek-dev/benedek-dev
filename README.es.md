@@ -1,3 +1,12 @@
+<p align="right">
+  🌐 Idiomas disponibles:  
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="README.es.md">🇪🇸 Español</a> |
+  <a href="README.hu.md">🇭🇺 Magyar</a>
+</p>
+
+
+
 # 👋 Hola, soy Benedek  
 
 Soy un **desarrollador de 15 años** con una gran pasión por los **sistemas backend, la programación y la resolución de problemas**.  
